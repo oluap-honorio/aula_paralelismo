@@ -1,9 +1,13 @@
 # Instalando o Python 3
 
 https://python.org.br/instalacao-windows/
+
 ou
+
 https://python.org.br/instalacao-linux/
+
 ou
+
 https://python-guide-pt-br.readthedocs.io/pt_BR/latest/starting/install3/osx.html
 
 # Setup
